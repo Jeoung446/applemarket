@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apple">
+        <item>애플마켓</item>
+        <item>당근마켓</item>
+        <item>내배캠</item>
+    </string-array>
+</resources>
